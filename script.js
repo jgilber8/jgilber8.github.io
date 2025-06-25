@@ -1,6 +1,6 @@
 let correct = false;
 
-let element = document.getElemendById("name");
+let element = document.getElementById("name");
 let theText = element.value;
 console.log(theText);
 /**while(correct == false){
